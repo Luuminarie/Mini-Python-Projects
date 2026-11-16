@@ -1,1 +1,1 @@
-# Rock-Paper-Scissors
+# QR Code Generator
